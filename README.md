@@ -1,4 +1,4 @@
-# Unipoint - Navigating PUP Campus
+# Project Unipoint - Navigating PUP Campus
 This project aims to address navigating issues by developing an efficient sequential search algorithm based java interface that can guide users to their intended building by providing maps, and route based on a starting point which is the entrance of Polytechnic University of the Philippines Main Gate.
 
 
